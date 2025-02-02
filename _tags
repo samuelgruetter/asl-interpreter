@@ -4,3 +4,5 @@ true: package(z3)
 true: package(zarith)
 true: package(linenoise)
 true: use_menhir
+true: package(num)
+true: package(bignum)
